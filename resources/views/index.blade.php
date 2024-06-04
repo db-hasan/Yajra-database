@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Laravel 10 Yajra Datatables Tutorial - ItSolutionStuff.com</title>
+    <title>Laravel 10 Yajra Datatables</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.datatables.net/1.11.4/css/dataTables.bootstrap5.min.css" rel="stylesheet">
